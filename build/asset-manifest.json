@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d85db38.css",
+    "main.js": "/static/js/main.3b5a5f62.js",
+    "static/js/787.18bba81f.chunk.js": "/static/js/787.18bba81f.chunk.js",
+    "static/media/ogopogo.png": "/static/media/ogopogo.4f312f74289154923079.png",
+    "static/media/sushi.png": "/static/media/sushi.76ba7844d8b0cf77bc1b.png",
+    "static/media/menu-2.png": "/static/media/menu-2.c5d791c08a65b4c41a2d.png",
+    "static/media/menu-1.png": "/static/media/menu-1.d79c15dd810a8dd7b195.png",
+    "static/media/leesMenu01.png": "/static/media/leesMenu01.10d080935f0eaf04b963.png",
+    "static/media/leesMenu06.png": "/static/media/leesMenu06.eac73ea54459bd4412d7.png",
+    "static/media/leesMenu04.png": "/static/media/leesMenu04.07ae127fa5abfa8819dd.png",
+    "static/media/leesMenu07.png": "/static/media/leesMenu07.0965bbf4f588a38110bf.png",
+    "static/media/hours.png": "/static/media/hours.4a60e81aaa2aada90de2.png",
+    "static/media/noodle2.jpg": "/static/media/noodle2.51b328d6f803cdffd2c5.jpg",
+    "static/media/leesMenu05.png": "/static/media/leesMenu05.e8916d271b63e5fdb509.png",
+    "static/media/leesMenu02.png": "/static/media/leesMenu02.8fb0e3405d1401db1598.png",
+    "static/media/leesMenu03.png": "/static/media/leesMenu03.258b170fd961e8448708.png",
+    "static/media/leesMenu08.png": "/static/media/leesMenu08.afc62eaa2c8bc46ff5bb.png",
+    "static/media/Lees_Logo.png": "/static/media/Lees_Logo.eedffb6bf167c1ed28ed.png",
+    "static/media/lunch.svg": "/static/media/lunch.9e48b95257ee91e899bdd00dd3084e5a.svg",
+    "static/media/food.svg": "/static/media/food.bdf0b09ed2a21a663fe6a5c6c39563e3.svg",
+    "index.html": "/index.html",
+    "main.1d85db38.css.map": "/static/css/main.1d85db38.css.map",
+    "main.3b5a5f62.js.map": "/static/js/main.3b5a5f62.js.map",
+    "787.18bba81f.chunk.js.map": "/static/js/787.18bba81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d85db38.css",
+    "static/js/main.3b5a5f62.js"
+  ]
+}
