@@ -6,7 +6,7 @@ const ContactForm = () => {
     <div className="container">
       <form
         target="_blank"
-        action="https://formsubmit.co/s2curity1004@gmail.com"
+        action="https://formsubmit.co/ynj2018@hotmail.com"
         method="POST">
         <div className="form-group form-manual-size">
           <div className="form-row">

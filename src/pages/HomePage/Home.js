@@ -39,8 +39,9 @@ const Home = () => {
     return setShowMenu(
       mode ? (
         <MenuContainer>
-          <img src={menu1} />
-            <img src={menu2} />
+          {/* <img src={menu1} /> */}
+          {/* <img src={menu2} /> */}
+          {/* 전체메뉴판 주석처리 */}
             <img src={leesMenu01} />
             <img src={leesMenu02} />
             <img src={leesMenu03} />
